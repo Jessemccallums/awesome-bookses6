@@ -9,7 +9,6 @@ Awesome books ES6, a project using a new sintax and modules (ES6)
 - CSS
 - JAVASCRIPT
 - Linters
-- Flaticon
 
 ## Live Demo
 
