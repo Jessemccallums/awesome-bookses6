@@ -1,4 +1,4 @@
-export const displayContact = () => {
+const displayContact = () => {
   const contactLink = document.querySelector('#contact');
 
   const listPage = document.querySelector('#display-section');
@@ -11,3 +11,5 @@ export const displayContact = () => {
     contactPage.style.display = 'flex';
   });
 };
+
+export default displayContact;

@@ -1,4 +1,4 @@
-export const displayList = () => {
+const displayList = () => {
   const listLink = document.querySelector('#list');
 
   const listPage = document.querySelector('#display-section');
@@ -12,3 +12,5 @@ export const displayList = () => {
     window.location.reload();
   });
 };
+
+export default displayList;

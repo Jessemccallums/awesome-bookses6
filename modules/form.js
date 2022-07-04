@@ -1,4 +1,4 @@
-export const displayForm = () => {
+const displayForm = () => {
   const addLink = document.querySelector('#add');
 
   const listPage = document.querySelector('#display-section');
@@ -11,3 +11,5 @@ export const displayForm = () => {
     contactPage.style.display = 'none';
   });
 };
+
+export default displayForm;
