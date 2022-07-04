@@ -1,6 +1,6 @@
 # Project Name
 
-Awesome books ES6, a project using a new sintax and modules (ES6)
+Awesome books ES6, a project using a new syntax and modules (ES6)
 
 
 ## Built With
