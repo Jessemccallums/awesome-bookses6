@@ -1,10 +1,12 @@
 import Book from './modules/classes.js';
 
-import displayContact from './modules/contact.js';
+import Contact from './modules/contact.js';
 
-import displayForm from './modules/form.js';
+import Form from './modules/form.js';
 
-import displayList from './modules/List.js';
+import List from './modules/List.js';
+
+import Time from './modules/time.js';
 
 // import displayTime
 
@@ -14,8 +16,10 @@ Book.display();
 
 Book.remove();
 
-displayList();
+List();
 
-displayForm();
+Form();
 
-displayContact();
+Contact();
+
+Time();

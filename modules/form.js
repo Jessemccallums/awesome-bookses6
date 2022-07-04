@@ -1,4 +1,4 @@
-const displayForm = () => {
+const Form = () => {
   const addLink = document.querySelector('#add');
 
   const listPage = document.querySelector('#display-section');
@@ -12,4 +12,4 @@ const displayForm = () => {
   });
 };
 
-export default displayForm;
+export default Form;

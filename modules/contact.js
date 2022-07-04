@@ -1,4 +1,4 @@
-const displayContact = () => {
+const Contact = () => {
   const contactLink = document.querySelector('#contact');
 
   const listPage = document.querySelector('#display-section');
@@ -12,4 +12,4 @@ const displayContact = () => {
   });
 };
 
-export default displayContact;
+export default Contact;
